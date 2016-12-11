@@ -5,7 +5,7 @@
 Запуск: 
 
 ```bash
-ruby tests/test_child.rb
+rspec
 ```
 
 Ссылка на отчёт: https://hedgesky.github.io/coverage_demo/coverage/index.html
